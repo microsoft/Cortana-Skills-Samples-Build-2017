@@ -97,14 +97,14 @@ namespace BingMapsBot
                         else
                         {
                             reply.Speak = result.Answers[0].Answer;
-                            reply.Text = reply.Speak;
                         }
                     }
                     else
                     {
-                        reply.Speak = "Sorry, but I'm unable to find any details on that.";
-                        reply.Text = reply.Speak;
+                        reply.Speak = "Sorry, but I'm unable to find any details on that.";                        
                     }
+
+                    reply.Text = reply.Speak;
                 }
 
                 await connector.Conversations.ReplyToActivityAsync(reply);
