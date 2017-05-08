@@ -1,4 +1,4 @@
-#o Cortana Skills Samples - Build 2017
+# Cortana Skills Samples - Build 2017
 
 This project contains a collection of Cortana Skills Kit code samples from the [Microsoft Build 2017](http://build.microsoft.com/) conference.
 
