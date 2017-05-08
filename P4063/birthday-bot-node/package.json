@@ -1,0 +1,16 @@
+{
+  "name": "birthday-bot",
+  "version": "1.0.0",
+  "description": "Cortana Skills auth sample that counts the days until your birthday",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.8.0-beta8",
+    "request": "^2.81.0",
+    "restify": "^4.3.0"
+  }
+}
