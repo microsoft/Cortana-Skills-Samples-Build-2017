@@ -1,4 +1,4 @@
-# Create Cortana Skills for your Customers and Partners
+# Authentication in Cortana Skills
 
 **Build Session:** P4063<br/>
 **Session Description:**
