@@ -1,16 +1,13 @@
-# LUIS Bot Sample
+# BUILD 2017 B8029 Cortana Skills LUIS Bot Sample
 
-A sample bot using LuisDialog to integrate with a LUIS.ai application.
+An updated version of the BotBuilder sample bot using LuisDialog to integrate with a LUIS.ai application.
+This sample has been updated to support Cortana channel. It is the sample app used at Build 2017 in session B8029: Cortana Advanced Language and Voice Skill.
 
-[![Deploy to Azure][Deploy Button]][Deploy CSharp/LUIS]
-
-[Deploy Button]: https://azuredeploy.net/deploybutton.png
-[Deploy CSharp/LUIS]: https://azuredeploy.net
 
 ### Prerequisites
 
 The minimum prerequisites to run this sample are:
-* The latest update of Visual Studio 2015. You can download the community version [here](http://www.visualstudio.com) for free.
+* The latest update of Visual Studio 2017. You can download the community version [here](http://www.visualstudio.com) for free.
 * The Bot Framework Emulator. To install the Bot Framework Emulator, download it from [here](https://emulator.botframework.com/). Please refer to [this documentation article](https://github.com/microsoft/botframework-emulator/wiki/Getting-Started) to know more about the Bot Framework Emulator.
 
 
@@ -144,6 +141,7 @@ To get more information about how to get started in Bot Builder for .NET and Con
 > The Bot Framework does its best to support the reuse of your Bot in as many channels as you want. However, due to the very nature of some of these channels, some features are not fully portable.
 > 
 > The features used in this sample are fully supported in the following channels:
+> - Cortana
 > - Skype
 > - Facebook
 > - Microsoft Teams
