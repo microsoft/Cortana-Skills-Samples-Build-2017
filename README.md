@@ -6,12 +6,10 @@ This project contains a collection of Cortana Skills Kit code samples from the [
 
 | Session Id | Title | 
 |------------|-------|
+| B8029      | Cortana advance language and voice skill design |
 | B8031      | Create Cortana Skills for your Customers and Partners |
 | P4063      | Authentication in Cortana Skills |
 |       |  |
-|       |  |
-|       |  |
-
 
 ## Developer Resources
 
