@@ -1,8 +1,10 @@
+
 # BUILD 2017 B8029 Cortana Skills LUIS Bot Sample
 
 An updated version of the BotBuilder sample bot using LuisDialog to integrate with a LUIS.ai application.
 This sample has been updated to support Cortana channel. It is the sample app used at Build 2017 in session B8029: Cortana Advanced Language and Voice Skill.
 
+* [Session Recording](https://channel9.msdn.com/events/Build/2017/B8029)
 
 ### Prerequisites
 
