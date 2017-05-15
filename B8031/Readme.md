@@ -1,14 +1,12 @@
-# Create Cortana Skills for your Customers and Partners
+https://channel9.msdn.com/events/Build/2017/B8031# Create Cortana Skills for your Customers and Partners
 
 **Build Session:** B8031<br/>
 **Date Presented:** May 11th, 2017 2:30pm<br/>
 **Session Description:**
 
 The Cortana Skills Kit opens up new opportunities for businesses to reduce costs, improve customer service, and drive revenue. This session will show how you can combine the Cortana Skills Kit together with Microsoft's AI services in B2C, B2B and line of business scenarios.
-<!--
-* [Session Recording]()
--->
-<iframe src="https://channel9.msdn.com/Events/Build/2017/B8031/player" width="960" height="540" allowFullScreen frameBorder="0"></iframe>
+
+* [Session Recording](https://channel9.msdn.com/events/Build/2017/B8031)
 
 ## Sample Resources
 
