@@ -1,15 +1,15 @@
-# Cortana Skills Samples - Build 2017
+ # Cortana Skills Samples - Build 2017
 
 This project contains a collection of Cortana Skills Kit code samples from the [Microsoft Build 2017](http://build.microsoft.com/) conference.
 
 ## Sessions
 
-| Session Id | Title | 
-|------------|-------|
-| B8029      | Cortana advance language and voice skill design |
-| B8031      | Create Cortana Skills for your Customers and Partners |
-| P4063      | Authentication in Cortana Skills |
-|       |  |
+| Session Id | Title | Recording |
+|------------|-------|-----------|
+| B8029      | Cortana advance language and voice skill design | [Video](https://channel9.msdn.com/events/Build/2017/B8029) |
+| B8031      | Create Cortana Skills for your Customers and Partners | [Video](https://channel9.msdn.com/events/Build/2017/B8031) | 
+| P4063      | Authentication in Cortana Skills | [Video](https://channel9.msdn.com/events/Build/2017/P4063) |
+|       |  | |
 
 ## Developer Resources
 
