@@ -1,4 +1,4 @@
-https://channel9.msdn.com/events/Build/2017/B8031# Create Cortana Skills for your Customers and Partners
+# Create Cortana Skills for your Customers and Partners
 
 **Build Session:** B8031<br/>
 **Date Presented:** May 11th, 2017 2:30pm<br/>
