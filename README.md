@@ -6,10 +6,20 @@ This project contains a collection of Cortana Skills Kit code samples from the [
 
 | Session Id | Title | Recording |
 |------------|-------|-----------|
-| B8029      | Cortana advance language and voice skill design | [Video](https://channel9.msdn.com/events/Build/2017/B8029) |
-| B8031      | Create Cortana Skills for your Customers and Partners | [Video](https://channel9.msdn.com/events/Build/2017/B8031) | 
-| P4063      | Authentication in Cortana Skills | [Video](https://channel9.msdn.com/events/Build/2017/P4063) |
-|       |  | |
+| B8010 | Bot capabilities, patterns and principles | [Video](https://channel9.msdn.com/events/Build/2017/B8010) |
+| B8029 | Cortana advanced language and voice skill design | [Video](https://channel9.msdn.com/events/Build/2017/B8029) |
+| B8030 | Cortana skills development: Get started | [Video](https://channel9.msdn.com/events/Build/2017/B8030) |
+| B8031 | Create Cortana Skills for your Customers and Partners | [Video](https://channel9.msdn.com/events/Build/2017/B8031) |
+| B8903 | Open Q&A: Artificial intelligence tools for developers | [Video](https://channel9.msdn.com/events/Build/2017/B8903) |
+| P4063 | Authentication in Cortana Skills | [Video](https://channel9.msdn.com/events/Build/2017/P4063) |
+| P4070 | Managing bot dialogs in Node.JS | [Video](https://channel9.msdn.com/events/Build/2017/P4070) |
+| P4074 | Using QnA Maker to quickly create a FAQ bot | [Video](https://channel9.msdn.com/events/Build/2017/P4074) |
+| P4075 | How to implement a bot to human handoff | [Video](https://channel9.msdn.com/events/Build/2017/P4075) |
+| P4114 | Bot conversations for apps | [Video](https://channel9.msdn.com/events/Build/2017/P4114) |
+| P4160 | Bot Analytics Dashboard | [Video](https://channel9.msdn.com/events/Build/2017/P4160) |
+| T6046 | Leveraging Cortana user knowledge to personalize your Cortana skill | [Video](https://channel9.msdn.com/events/Build/2017/T6046) |
+| T6972 | Advanced LUIS models enabling rich query support in bots and Cortana skills | [Video](https://channel9.msdn.com/events/Build/2017/T6972) |
+| T6974 | Advanced architecture and development practices when engineering Cortana skills for multiple device types | [Video](https://channel9.msdn.com/events/Build/2017/T6974) |
 
 ## Developer Resources
 
