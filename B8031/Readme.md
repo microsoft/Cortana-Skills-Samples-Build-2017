@@ -8,6 +8,8 @@ The Cortana Skills Kit opens up new opportunities for businesses to reduce costs
 <!--
 * [Session Recording]()
 -->
+<iframe src="https://channel9.msdn.com/Events/Build/2017/B8031/player" width="960" height="540" allowFullScreen frameBorder="0"></iframe>
+
 ## Sample Resources
 
 * [Cortana Skills Kit](https://developer.microsoft.com/en-us/Cortana)
